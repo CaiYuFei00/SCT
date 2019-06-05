@@ -1,7 +1,7 @@
 server:
-  port: 1999
+  port: 1998
 eureka:
   client:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
-hello: LiuChen
+hello: SSS
